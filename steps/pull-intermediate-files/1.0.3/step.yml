@@ -40,7 +40,7 @@ type_tags:
 toolkit:
   go:
     package_name: github.com/rodfp/bitrise-step-pull-intermediate-files
-#run_if: .IsCI
+run_if: .IsCI
 inputs:
 - artifact_sources: .*
   opts:

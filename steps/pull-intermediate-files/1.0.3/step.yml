@@ -28,8 +28,8 @@ description: |-
     NOTE: You can list multiple artifacts by separating them using a comma. For example: `{stage1}.{workflow1},{stage2}.{workflow2}`
 
   2. (Optional) Set the **Enable verbose logging** input to `true` if you want to log additional information for debugging purposes.
-website: https://github.com/bitrise-steplib/bitrise-step-pull-intermediate-files
-source_code_url: https://github.com/bitrise-steplib/bitrise-step-pull-intermediate-files
+website: https://github.com/rodfp/bitrise-step-pull-intermediate-files
+source_code_url: https://github.com/rodfp/bitrise-step-pull-intermediate-files
 support_url: https://github.com/bitrise-steplib/bitrise-step-pull-intermediate-files/issues
 published_at: 2023-03-22T09:23:35.177983318Z
 source:

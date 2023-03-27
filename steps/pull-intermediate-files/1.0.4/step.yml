@@ -34,7 +34,7 @@ support_url: https://github.com/bitrise-steplib/bitrise-step-pull-intermediate-f
 published_at: 2023-03-22T09:23:35.177983318Z
 source:
   git: https://github.com/rodfp/bitrise-step-pull-intermediate-files.git
-  commit: 513e1ac64b9dc88cce8ce5718e6fbfbf633c4781
+  commit: 23495defe442344865d77bb970aff0e94010423a
 type_tags:
 - utility
 toolkit:
